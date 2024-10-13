@@ -1,0 +1,5 @@
+Frequently used commands
+to create requirements.txt file:
+	pip freeze>requirements.txt
+toinstall requirements:
+	pip install -r requirements.txt
